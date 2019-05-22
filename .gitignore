@@ -1,6 +1,6 @@
 
 /.vscode
-/src/CMakeFiles
-/src/cmake_install.cmake
-/src/CMakeCache.txt
-/Tutorial
+/test1/CMakeFiles
+/test1/cmake_install.cmake
+/test1/CMakeCache.txt
+/test1/Tutorial
