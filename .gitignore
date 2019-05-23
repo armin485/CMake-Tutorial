@@ -1,16 +1,11 @@
 
 /.vscode
 
-/test1/CMakeFiles
-/test1/cmake_install.cmake
-/test1/CMakeCache.txt
-/test1/Tutorial
-/test1/MakeFile
+/*/CMakeFiles
+/*/cmake_install.cmake
+/*/CMakeCache.txt
+/*/Tutorial
+/*/MakeFile
 
-/test2/CMakeFiles
-/test2/funcs/CMakeFiles
-/test2/cmake_install.cmake
-/test2/CMakeCache.txt
-/test2/Tutorial
-/test2/MakeFile
-/test2/funcs/MakeFile
+/*/funcs/CMakeFiles
+/*/funcs/cmake_install.cmake
